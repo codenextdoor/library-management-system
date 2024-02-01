@@ -1,7 +1,7 @@
 # Library Management System
 
 ## Project Overview
-This project is a simple library management system developed using Django and Django REST framework.
+This project is a simple library management system developed using Django and Django REST framework. Check the "MASTER BRANCH"
 
 ## Setup Instructions
 
